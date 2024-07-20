@@ -46,7 +46,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 #### "Suggestions and project improvement ideas are welcomed!"
 
 
- Check Running The Site At  <a href="http://localhost:8083/onlinebookstore/">http://localhost:8083/onlinebookstore/</a>
+ 
 
 
 
